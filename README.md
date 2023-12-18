@@ -23,16 +23,26 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criei um Podcast sobre as IAs Generativas para pessoas que não são da área de tecnologia.
+para que possam conhecer mais sobre o tema e como qualquer pessoa pode se beneficiar
+dessa tecnologia.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Usei o ChatGPR 3.5 para criar o script do Podcast. 
+O Evenlabs para locução.
+Usei também o DALL-E do Canva 
+O CapCut para fazer a edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei os comandos de prompt no ChatGPT, criando desde o nome do Podcast e o nome da locutora, a vinheta
+até mesmo o texto e até mesmo como fazer a edição.
+Em seguida fiz a locução usando o Evenlabs, configurando aspectos de uma voz feminina e mais jovem.
+Depois o DALL-E integrado no Canvas para fazer a "personificação" da locutora e um modelo de capa.
+E por fim usei um editor de vídeos, o Capcut para fazer a edição.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Link para o podcast no youtube:
+https://youtu.be/56Orm1v5Fjo
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
