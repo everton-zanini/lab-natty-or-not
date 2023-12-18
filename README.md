@@ -19,8 +19,8 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+
+# Título do Projeto: Criatividade Binária - Podcast  ;)
 
 ## 📒 Descrição
 Criei um Podcast sobre as IAs Generativas para pessoas que não são da área de tecnologia.
@@ -46,7 +46,7 @@ Link para o podcast no youtube:
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
+
 
 ### Exemplos e Insigths
 
