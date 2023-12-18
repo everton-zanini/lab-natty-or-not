@@ -42,7 +42,7 @@ E por fim usei um editor de vídeos, o Capcut para fazer a edição.
 
 ## 🚀 Resultados
 Link para o podcast no youtube:
-https://youtu.be/56Orm1v5Fjo
+[Criatividade Binária](https://youtu.be/56Orm1v5Fjo)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
