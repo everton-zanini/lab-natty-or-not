@@ -28,25 +28,31 @@ para que possam conhecer mais sobre o tema e como qualquer pessoa pode se benefi
 dessa tecnologia.
 
 ## 🤖 Tecnologias Utilizadas
-Usei o ChatGPR 3.5 para criar o script do Podcast. 
-O Evenlabs para locução.
-Usei também o DALL-E do Canva 
-O CapCut para fazer a edição.
+Usei o [ChatGPT](https://chat.openai.com/) para criar o script do Podcast. 
+O [Evenlabs](https://elevenlabs.io/) para locução.
+Usei também o DALL-E do [Canva](https://www.canva.com/).
+O [CapCut](https://www.capcut.com/pt-br/tools/online-video-editor?ad_platform_id=googleadwords_int&pid=348188&af_c_id=20528148419&af_adset_id=161789759028&af_ad_id=673134924436&af_keywords=kwd-1488524762794&keyword_name=capcut&matchtype=p&af_channel=g&placement=&target=&gclid=CjwKCAiA-P-rBhBEEiwAQEXhHywnP7OkEAvzrl67j-p_0JdXJT1TRQKOnPCJVzLM-TXzENGemenKWRoCzJMQAvD_BwE) para fazer a edição.
 
 ## 🧐 Processo de Criação
-Utilizei os comandos de prompt no ChatGPT, criando desde o nome do Podcast e o nome da locutora, a vinheta
+Utilizei os comandos de prompt no [ChatGPT](https://chat.openai.com/), criando desde o nome do Podcast e o nome da locutora, a vinheta
 até mesmo o texto e até mesmo como fazer a edição.
-Em seguida fiz a locução usando o Evenlabs, configurando aspectos de uma voz feminina e mais jovem.
-Depois o DALL-E integrado no Canvas para fazer a "personificação" da locutora e um modelo de capa.
-E por fim usei um editor de vídeos, o Capcut para fazer a edição.
+Em seguida fiz a locução usando o [Evenlabs](https://elevenlabs.io/), configurando aspectos de uma voz feminina e mais jovem.
+Depois o DALL-E integrado no [Canva](https://www.canva.com/) para fazer a "personificação" da locutora e um modelo de capa.
+E por fim usei um editor de vídeos, o [CapCut](https://www.capcut.com/pt-br/tools/online-video-editor?ad_platform_id=googleadwords_int&pid=348188&af_c_id=20528148419&af_adset_id=161789759028&af_ad_id=673134924436&af_keywords=kwd-1488524762794&keyword_name=capcut&matchtype=p&af_channel=g&placement=&target=&gclid=CjwKCAiA-P-rBhBEEiwAQEXhHywnP7OkEAvzrl67j-p_0JdXJT1TRQKOnPCJVzLM-TXzENGemenKWRoCzJMQAvD_BwE) para fazer a edição.
 
 ## 🚀 Resultados
 Link para o podcast no youtube:
 [Criatividade Binária](https://youtu.be/56Orm1v5Fjo)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-
+Foi uma experiência sem igual para mim que já sou um desenvolvedor e publicitário.
+Sempre acreditava que um desenvolvedor precisava criar suas soluções e um publicitário
+suas campanhas, mas e se tivermos um assistente que pode nos ajudar nas tarefas mais
+cotidianas.
+Escolhi um podcast, porque sei o tempo que leva para fazer um do texto a edição
+e ainda falando de tecnologia. Esse mesmo devo ter levado em tudo no máximo 1h30.
+Fato é que as IAs serão nossas novas ferramentas de trabalho. Elas não decidirão
+nossas vidas, mas serão um grande apoio para nós.
 
 ### Exemplos e Insigths
 
